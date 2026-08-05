@@ -22,7 +22,7 @@ I enjoy building reliable software and solving real-world engineering problems. 
 
 An Augmented Reality-based mobile application developed for campus orientation at METU NCC.
 
-🔗 **Repository:** [https://github.com/ipekgultekin/OrientAR](https://github.com/ipekgultekin/OrientAR)
+🔗 **Repository:** [OrientAR](https://github.com/ipekgultekin/OrientAR)
 
 **Highlights**
 
@@ -46,7 +46,7 @@ Designed and implemented the AR Navigation module, including GPS & ARCore headin
 
 An EV charging management platform featuring reservations, charging sessions, wallet integration, reviews, and reporting dashboards.
 
-🔗 **Repository:** [https://github.com/ardamensur/spark-ev-charging](https://github.com/ardamensur/spark-ev-charging)
+🔗 **Repository:** [Spark EV Charhing](https://github.com/ardamensur/spark-ev-charging)
 
 **Tech Stack**
 
@@ -58,7 +58,7 @@ An EV charging management platform featuring reservations, charging sessions, wa
 
 A web-based management platform for electricity production companies, covering personnel, maintenance, finance, and operational workflows.
 
-🔗 **Repository:** [https://github.com/ardamensur/WATT-webapp](https://github.com/ardamensur/WATT-webapp)
+🔗 **Repository:** [WATT Webapp](https://github.com/ardamensur/WATT-webapp)
 
 **Tech Stack**
 
