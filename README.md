@@ -30,7 +30,7 @@ A four-VM detection lab built to practise end-to-end security operations: genera
 
 - Wazuh SIEM with agents on Linux, Windows, and a domain controller
 - Suricata IDS for network-layer detection
-- 17 custom detection rules mapped to MITRE ATT&CK
+- 15 custom detection rules (12 Wazuh + 3 Suricata) mapped to MITRE ATT&CK
 - Network and endpoint correlation on an SMB brute-force attack
 - Nessus vulnerability scan, remediation, and verification
 
