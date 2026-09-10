@@ -22,7 +22,7 @@ I enjoy building reliable software and solving real-world engineering problems. 
 
 ### 🛡️ SOC Home Lab
 
-A four-VM detection lab built to practise end-to-end security operations: generate an attack, detect it, prove the detection.
+A five-VM detection lab built to practise end-to-end security operations: generate an attack, detect it, prove the detection.
 
 🔗 **Repository:** [soc-home-lab](https://github.com/ardamensur/soc-home-lab)
 
@@ -30,14 +30,14 @@ A four-VM detection lab built to practise end-to-end security operations: genera
 
 - Wazuh SIEM with agents on Linux, Windows, and a domain controller
 - Suricata IDS for network-layer detection
-- 15 custom detection rules (12 Wazuh + 3 Suricata) mapped to MITRE ATT&CK
+- OPNsense firewall segmenting the lab into server and client networks, with rule-based access control and syslog forwarding into the SIEM
+- 15 custom detection rules mapped to MITRE ATT&CK
 - Network and endpoint correlation on an SMB brute-force attack
 - Nessus vulnerability scan, remediation, and verification
 
 **Tech Stack**
 
-`Wazuh` `Suricata` `Nessus` `Windows Server AD` `Sysmon` `Kali Linux` `VirtualBox`
-
+`Wazuh` `Suricata` `OPNsense` `Nessus` `Windows Server AD` `Sysmon` `Kali Linux` `VirtualBox`
 ---
 
 ### 📍 OrientAR
@@ -104,7 +104,7 @@ A web-based management platform for electricity production companies, covering p
 
 ### Security & Networking
 
-`Wazuh (SIEM)` • `Suricata (IDS)` • `Nessus` • `Sysmon` • `Active Directory` • `MITRE ATT&CK` • `Kali Linux` • `Network Security` • `Cryptography` • `RBAC / RLS`
+`Wazuh (SIEM)` • `Suricata (IDS)` • `OPNsense` • `Nessus` • `Sysmon` • `Active Directory` • `MITRE ATT&CK` • `Kali Linux` • `Network Security` • `Cryptography` • `RBAC / RLS`
 
 ### Simulation & Engineering
 
