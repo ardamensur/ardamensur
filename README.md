@@ -11,12 +11,34 @@ I enjoy building reliable software and solving real-world engineering problems. 
 
 - 🎓 B.Sc. in Computer Engineering (Honor Student) — METU NCC
 - 🎓 M.Sc. Student in Cyber Security — METU Informatics Institute
-- 🛰 Former Chair, IEEE METU NCC Student Branch (2024–2025)
+- 🛰 Former Chair, IEEE METU NCC Student Branch (2023–2025)
 - 🌱 Currently expanding my knowledge through engineering projects and continuous learning across cyber security, software engineering, databases, networking, and mobile technologies.
 
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🛡️ SOC Home Lab
+
+A four-VM detection lab built to practise end-to-end security operations: generate an attack, detect it, prove the detection.
+
+🔗 **Repository:** [soc-home-lab](https://github.com/ardamensur/soc-home-lab)
+
+**Highlights**
+
+- Wazuh SIEM with agents on Linux, Windows, and a domain controller
+- Suricata IDS for network-layer detection
+- 17 custom detection rules mapped to MITRE ATT&CK
+- Network and endpoint correlation on an SMB brute-force attack
+- Nessus vulnerability scan, remediation, and verification
+
+**Tech Stack**
+
+`Wazuh` `Suricata` `Nessus` `Windows Server AD` `Sysmon` `Kali Linux` `VirtualBox`
+
+---
 
 ### 📍 OrientAR
 
@@ -46,7 +68,7 @@ Designed and implemented the AR Navigation module, including GPS & ARCore headin
 
 An EV charging management platform featuring reservations, charging sessions, wallet integration, reviews, and reporting dashboards.
 
-🔗 **Repository:** [Spark EV Charhing](https://github.com/ardamensur/spark-ev-charging)
+🔗 **Repository:** [Spark EV Charging](https://github.com/ardamensur/spark-ev-charging)
 
 **Tech Stack**
 
@@ -78,11 +100,11 @@ A web-based management platform for electricity production companies, covering p
 
 ### Frameworks & Libraries
 
-`Spring Boot` • `Flask` • `Android` • `ARCore` • `SceneView` • `Streamlit` • `PyTorch`
+`Spring Boot` • `Flask` • `Android` • `ARCore` • `SceneView` • `PyTorch`
 
 ### Security & Networking
 
-`Cyber Security` • `Network Security` • `Wireless Networks` • `Cryptography` • `RBAC / RLS`
+`Wazuh (SIEM)` • `Suricata (IDS)` • `Nessus` • `Sysmon` • `Active Directory` • `MITRE ATT&CK` • `Kali Linux` • `Network Security` • `Cryptography` • `RBAC / RLS`
 
 ### Simulation & Engineering
 
@@ -90,7 +112,7 @@ A web-based management platform for electricity production companies, covering p
 
 ### Developer Tools
 
-`Git` • `GitHub` • `Docker` • `Android Studio` • `IntelliJ IDEA` • `VS Code` • `PyCharm` • `CLion`
+`Git` • `GitHub` • `VirtualBox` • `Jira` • `Docker` • `Android Studio` • `IntelliJ IDEA` • `VS Code` • `PyCharm` • `CLion`
 
 ---
 
